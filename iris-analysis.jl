@@ -22,11 +22,9 @@ voyager = Voyager(data)
 
 # To choose the plot from the Data Voyager just Specify the Plot and assign 
 # specified plot to the variable ("p")
-
 p = voyager[]
 
 # save the plot
-
 save("iris_voyager.png", p)
 save("iris_voyager.svg", p)
 
