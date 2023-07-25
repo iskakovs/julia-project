@@ -25,6 +25,10 @@ voyager = Voyager(data)
 
 p = voyager[]
 
+# save the plot
+
+save("iris_voyager.png", p)
+save("iris_voyager.svg", p)
 
 
 
