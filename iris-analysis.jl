@@ -7,3 +7,6 @@ add VegaLite
 using VegaDatasets
 using DataVoyager
 using VegaLite
+
+# Load dataset
+data = dataset("iris")
