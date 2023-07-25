@@ -17,6 +17,15 @@ vscodedisplay(data)
 # visualize dataset
 voyager = Voyager(data)
 
+# Now, choose from the Data Voyager window the variables. You can use
+# the quantitative-quatitative variables and change the color according to your preferences.
+
+# To choose the plot from the Data Voyager just Specify the Plot and assign 
+# specified plot to the variable ("p")
+
+p = voyager[]
+
+
 
 
 
