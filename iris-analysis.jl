@@ -30,9 +30,4 @@ p = voyager[]
 save("iris_voyager.png", p)
 save("iris_voyager.svg", p)
 
-
-
-
-
-
-
+# PNG is not good, but SVG looks great
