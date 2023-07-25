@@ -14,6 +14,12 @@ data = dataset("iris")
 # display dataset using VSCode
 vscodedisplay(data)
 
+# visualize dataset
+voyager = Voyager(data)
+
+
+
+
 
 
 
